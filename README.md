@@ -26,6 +26,9 @@
   
 <a href="https://www.linkedin.com/in/bruno-limasa/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Bruno%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-limasa/" /></a>
+
+<a href="https://t.me/brunolima1200" alt="Telegram">
+<img src="https://img.shields.io/badge/-@brunolima1200-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/brunolima1200" /></a>
   
  </p>
  
