@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🔥 Pretendo aprender: <strong>Firebase e API REST.</strong>
+  🔥 Pretendo aprender: <strong>Firebase e node.js.</strong>
 </p>
 
 <p align="left">
