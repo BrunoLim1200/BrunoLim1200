@@ -1,23 +1,22 @@
 
 <p align="left">
-  Olá, meu nome é Bruno tenho 20 anos sou <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Flutter</strong>.<br>
-  Estou cursando Sistemas de Informação na UFMT.
+  Olá, meu nome é Bruno e sou um <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Flutter</strong>.<br>
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, Javascript, Python e UI/UX Design.</strong>
+  :computer: Skills: <strong>HTML5, CSS3, Javascript, Python e UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  🌈 Estudando atualmente: <strong>Dart e Flutter.</strong>
+  :bar_chart: Estudando atualmente: <strong>Dart e Flutter.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretendo aprender: <strong>Firebase e node.js.</strong>
+  :books: Futuros Objetivos: <strong>Aprender Firebase e Django.</strong>
 </p>
 
 <p align="left">
-📫  Quer falar comigo? Me mande mensagem em alguma dessas redes sociais abaixo!
+📫  Caso queira falar comigo, tem essas redes abaixo para entrar em contato! :)
 </p>
 
 <p align="left">
