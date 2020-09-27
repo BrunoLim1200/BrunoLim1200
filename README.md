@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  :books: Futuros Objetivos: <strong>Aprender Firebase e Django.</strong>
+  :books: Futuros Objetivos: <strong>Aprender Firebase e API Rest.</strong>
 </p>
 
 <p align="left">
