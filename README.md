@@ -4,15 +4,15 @@
 </p>
 
 <p align="left">
-  :computer: Skills: <strong>HTML5, CSS3, Javascript, Python e UI/UX Design.</strong>
+  :computer: Skills: <strong>HTML5, CSS3, Javascript, Python, Dart, Flutter e UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>Dart e Flutter.</strong>
+  :bar_chart: Estudando atualmente: <strong>Angular, Typescript e Firebase.</strong>
 </p>
 
 <p align="left">
-  :books: Futuros Objetivos: <strong>Aprender Firebase e API Rest.</strong>
+  :books: Futuros Objetivos: <strong>Aprender React e Node.JS.</strong>
 </p>
 
 <p align="left">
