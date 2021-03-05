@@ -1,18 +1,14 @@
 
 <p align="left">
-  Olá, meu nome é Bruno e sou um <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Flutter</strong>.<br>
+  Olá, meu nome é Bruno e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria em projetos para o Workplace by Facebook.<br>
 </p>
 
 <p align="left">
-  :computer: Skills: <strong>HTML5, CSS3, Javascript, Python, Dart, Flutter e UI/UX Design.</strong>
+  :computer: Skills: <strong>Angular, Typescript, Node.js, Javascript, NoSQL & MySQL e Python.</strong>
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>Angular, Typescript e Firebase.</strong>
-</p>
-
-<p align="left">
-  :books: Futuros Objetivos: <strong>Aprender React e Node.JS.</strong>
+  :bar_chart: Estudando atualmente: <strong>Angular, Node.js e SQL.</strong>
 </p>
 
 <p align="left">
