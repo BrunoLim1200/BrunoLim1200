@@ -1,18 +1,18 @@
 
 <p align="left">
-  Olá, meu nome é Bruno e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria em projetos para o Workplace by Facebook.<br>
+  Olá, meu nome é Bruno e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria atuando em projetos para o Workplace by Facebook.<br>
 </p>
 
 <p align="left">
-  :computer: Skills: <strong>Angular, Typescript, Node.js, Javascript, NoSQL & MySQL e Python.</strong>
+  :computer: Skills: <strong>Angular, Typescript, Node.js, Javascript, NoSQL(Firebase & MongoDB) e Python.</strong>
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>Angular, Node.js e SQL.</strong>
+  :bar_chart: Estudando atualmente: <strong>MEAN Stack (MongoDB, Express.js, Angular & Node.js)</strong>
 </p>
 
 <p align="left">
-📫  Caso queira falar comigo, tem essas redes abaixo para entrar em contato! :)
+📫  Caso queira falar comigo, essas opções estão disponíveis abaixo para entrar em contato! :)
 </p>
 
 <p align="left">
