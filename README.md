@@ -1,10 +1,9 @@
-
 <p align="left">
-  Olá, meu nome é Bruno e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria atuando em projetos para o Workplace by Facebook.<br>
+  Olá, meu nome é Bruno, tenho 20 anos e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria atuando em projetos para o Workplace by Facebook.<br>
 </p>
 
 <p align="left">
-  :computer: Skills: <strong>Angular, Typescript, Node.js, Javascript, NoSQL(Firebase & MongoDB) e Python.</strong>
+  :computer: Skills: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB) e Python.</strong>
 </p>
 
 <p align="left">
@@ -26,5 +25,3 @@
 <img src="https://img.shields.io/badge/-@brunolima1200-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/brunolima1200" /></a>
   
  </p>
- 
- 
