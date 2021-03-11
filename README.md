@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  :computer: Skills: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB) e Python.</strong>
+  :computer: Stack: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB) e Python.</strong>
 </p>
 
 <p align="left">
