@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
-  :computer: Stack: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB) e Python.</strong>
+  :computer: Stack: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB), Python & Flutter.</strong>
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>MEAN Stack (MongoDB, Express.js, Angular & Node.js)</strong>
+  :bar_chart: Estudando atualmente: <strong>MEAN&MERN Stack (MongoDB, Express.js, Angular || React & Node.js)</strong>
 </p>
 
 <p align="left">
