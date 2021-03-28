@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>MEAN&MERN Stack (MongoDB, Express.js, Angular || React & Node.js)</strong>
+  :bar_chart: Estudando atualmente: <strong>MERN Stack (MongoDB, Express.js, React & Node.js)</strong>
 </p>
 
 <p align="left">
