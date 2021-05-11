@@ -1,13 +1,13 @@
 <p align="left">
-  Olá, meu nome é Bruno, tenho 20 anos e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma empresa de consultoria atuando em projetos para o Workplace by Facebook.<br>
+  Olá, meu nome é Bruno, tenho 20 anos e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma startup de soluções focadas em pós óbras.<br>
 </p>
 
 <p align="left">
-  :computer: Stack: <strong>Angular, Node.js, NoSQL(Firebase & MongoDB) & Python.</strong>
+  :computer: Stack: <strong>MEAN (MongoDB, Express.js, Angular, Node.js) & Docker.</strong>
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>React & SASS</strong>
+  :bar_chart: Estudando atualmente: <strong>Docker & Typescript</strong>
 </p>
 
 <p align="left">
