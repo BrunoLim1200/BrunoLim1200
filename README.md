@@ -1,5 +1,5 @@
 <p align="left">
-  Olá, meu nome é Bruno, tenho 20 anos e sou <strong>Desenvolvedor Full-Stack Júnior</strong> trabalhando atualmente em uma startup de soluções focadas em pós óbras.<br>
+  Olá, meu nome é Bruno, tenho 21 anos e sou <strong>Desenvolvedor Angular</strong> trabalhando atualmente em uma startup do mercado financeiro.<br>
 </p>
 
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  :bar_chart: Estudando atualmente: <strong>Docker & Typescript</strong>
+  :bar_chart: Estudando atualmente: <strong>Ionic & Python</strong>
 </p>
 
 <p align="left">
