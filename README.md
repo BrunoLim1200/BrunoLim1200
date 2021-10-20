@@ -1,18 +1,28 @@
-<p align="left">
-  Olá, meu nome é Bruno, tenho 21 anos e sou <strong>Desenvolvedor Angular</strong> trabalhando atualmente em uma startup do mercado financeiro.<br>
-</p>
-
-<p align="left">
-  :computer: Stack: <strong>MEAN (MongoDB, Express.js, Angular, Node.js) & Docker.</strong>
-</p>
-
-<p align="left">
-  :bar_chart: Estudando atualmente: <strong>Ionic & Python</strong>
-</p>
-
-<p align="left">
-📫  Caso queira falar comigo, essas opções estão disponíveis abaixo para entrar em contato! :)
-</p>
+<h3 align="left">
+  Hello There
+</h3>
+<span align="left">
+  Happy to have u here, I'll try to show a little bit about myself below.
+</span>
+<h3 align="left">
+  Detailed Information
+</h3>
+<ul>
+  <li><b>Name:</b> Bruno Santos</li>
+  <li><b>Age:</b> 21</li>
+  <li><b>Living in:</b> Mato Grosso, Brazil</li>
+  <li><b>Stack:</b> Angular - Node.js - Python - MongoDB </li>
+  <li><b>University:</b> BsC Information Systems - Federal University of Mato Grosso</li>
+</ul>
+<h3 align="left">
+  Random curiosities about me
+</h3>
+<ul>
+  <li>Since my 10 years old, is my dream to work with technology, in the first moment my goal is become a gaming developer but few years later I decide study web development and here I am.</li>
+  <li>My top goal today is work in another country. Travel and living another cultures it's one of my dreams and I know that I have the capacity to work for that.</li>
+  <li>My favorite sports is Basketball and Racing. Everyday I watch or play something with any conection with that fields.</li>
+</ul>
+<br>
 
 <p align="left">
 <a href="mailto:bruno.lisa1200@gmail.com" alt="Gmail">
