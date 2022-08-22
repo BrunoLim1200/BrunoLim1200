@@ -10,8 +10,8 @@
 <ul>
   <li><b>Name:</b> Bruno Santos</li>
   <li><b>Age:</b> 21</li>
-  <li><b>Living in:</b> Mato Grosso, Brazil</li>
-  <li><b>Stack:</b> Angular - Node.js - Python - MongoDB </li>
+  <li><b>Living in:</b> Santa Catarina, Brazil</li>
+  <li><b>Stack:</b> Angular - Node.js - Python - Flutter - Dart </li>
   <li><b>University:</b> BsC Information Systems - Federal University of Mato Grosso</li>
 </ul>
 <h3 align="left">
