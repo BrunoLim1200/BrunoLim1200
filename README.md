@@ -9,18 +9,18 @@
 </h3>
 <ul>
   <li><b>Name:</b> Bruno Santos</li>
-  <li><b>Age:</b> 21</li>
+  <li><b>Age:</b> 22</li>
   <li><b>Living in:</b> Santa Catarina, Brazil</li>
-  <li><b>Stack:</b> Angular - Node.js - Python - Flutter - Dart </li>
+  <li><b>Stack:</b> Flutter - Dart - Angular - Node.js - Python </li>
   <li><b>University:</b> BsC Information Systems - Federal University of Mato Grosso</li>
 </ul>
 <h3 align="left">
   Random curiosities about me
 </h3>
 <ul>
-  <li>Since my 10 years old, is my dream to work with technology, in the first moment my goal is become a gaming developer but few years later I decide study web development and here I am.</li>
-  <li>My top goal today is work in another country. Travel and living another cultures it's one of my dreams and I know that I have the capacity to work for that.</li>
-  <li>My favorite sports is Basketball and Racing. Everyday I watch or play something with any conection with that fields.</li>
+  <li>Since I was 10 years old, it has been my dream to work with technology. Initially, my goal was to become a game developer. However, a few years later, I made the decision to study front-end development, and here I am..</li>
+  <li>My current top goal is to work in another country. Traveling and experiencing different cultures has always been one of my dreams, and I believe I have the ability to work towards achieving it.</li>
+  <li>My favorite sports are basketball and racing. Every day, I watch or engage in activities related to these fields in some way.</li>
 </ul>
 <br>
 
