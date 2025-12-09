@@ -12,7 +12,6 @@
   <li><b>Age:</b> 25</li>
   <li><b>Living in:</b> Santa Catarina, Brazil</li>
   <li><b>Stack:</b> Angular - Node.js - Python </li>
-  <li><b>University:</b> BsC Information Systems - Federal University of Mato Grosso</li>
 </ul>
 
 <p align="left">
